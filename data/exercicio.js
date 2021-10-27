@@ -7,7 +7,13 @@ function validate() {
 	gabaritoData.map((gaba) => {
 		const gabaritoresposta = gaba.resposta;
 		if(document.getElementById(gabaritoresposta).checked){
-			console.log('AAAAAAAAAA EU NAO AGUENTO MAIS')
+			document.getElementById('feedbackPositivo').style.display = 'block';
+			document.getElementById('alternativas').style.display = 'none';
+			document.getElementById('buttonConfirm').style.display = 'none';
+		}else {
+			document.getElementById('feedbackNegativo').style.display = 'block'
+			document.getElementById('alternativas').style.display = 'none';
+			document.getElementById('buttonConfirm').style.display = 'none';
 		}
 	})
 	

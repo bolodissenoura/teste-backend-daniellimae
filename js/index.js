@@ -24,5 +24,5 @@ $("input:checkbox").on('click', function() {
 
 
 const targetDiv = document.getElementById("buttonConfirm");
-const btn = document.getElementById("toggle");
+
 
