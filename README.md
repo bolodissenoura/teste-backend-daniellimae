@@ -11,6 +11,6 @@
     
 </h1>
 
-[![20211027_032428.th.gif](https://s10.gifyu.com/images/20211027_032428.th.gif)](https://gifyu.com/image/e6VP)
+<a href="https://gifyu.com/image/e6VP"><img src="https://s10.gifyu.com/images/20211027_032428.th.gif" alt="20211027_032428.gif" border="0" /></a>
 
 <p>Tecnologias utilizadas : Bootstrap, Html, Css, Javascrip </p>
