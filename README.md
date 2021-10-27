@@ -7,10 +7,10 @@
 <p>Recomendo fortemente a utilização da Extensão Live server para abrir o arquivo html. </p>
 
 <h1 align="center">
-    <a href="https://bolodissenoura.github.io/daniellimae/">🔗 Um breve resumo do que você verá ( Clique aqui )</a>
+    <a href="https://bolodissenoura.github.io/teste-backend-daniellimae/">🔗 Um breve resumo do que você verá ( Clique aqui )</a>
     
 </h1>
 
-![Alt Text](https://gifyu.com/image/e6VP)
+![Alt Text](https://s10.gifyu.com/images/20211027_032428.gif)
 
 <p>Tecnologias utilizadas : Bootstrap, Html, Css, Javascrip </p>
